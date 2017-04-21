@@ -7,3 +7,4 @@
 - zmena na local 1
 - zmena na remote 5
 - zmena la local 5
+- necommitnuta zmena
