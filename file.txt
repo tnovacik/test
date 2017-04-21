@@ -2,3 +2,4 @@
 - zmena na local
 - zmena na remote
 - zmena na remote 2
+- zmena na remote 3
